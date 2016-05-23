@@ -1,0 +1,9 @@
+cubeSide: 0.56
+bandLength: 15
+bandWidth: 0.2
+bandDepth: 0.1
+bx: 0.1
+by: 0.2
+bz: 0.1
+elasticityCoef: 100
+extraSpace: 5
